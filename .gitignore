@@ -1,3 +1,7 @@
-Editor/
-Resources/
-StreamingAssets/
+Assets/Editor/
+Assets/Resources/
+Assets/StreamingAssets/
+
+Assets/Editor.meta
+Assets/Resources.meta
+Assets/StreamingAssets.meta
