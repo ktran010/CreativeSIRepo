@@ -155,7 +155,7 @@ public class CI_selection : MonoBehaviour {
 
 
         if (Input.GetMouseButtonDown(0)) { // if left mouse button is clicked 
-				bool objHit = false;
+				// bool objHit = false;
 				RaycastHit raycastHit = new RaycastHit(); 
 	
 
