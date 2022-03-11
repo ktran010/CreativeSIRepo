@@ -6,8 +6,11 @@ Assets/Editor.meta
 Assets/Resources.meta
 Assets/StreamingAssets.meta
 
-Library/ArtifactDB
+Library/
+*ArtifactDB
 
-Library/PackageCache/com.ptc.vuforia.engine@9163f4a76e51-1644838625000
+Library/PackageCache/
+*com.ptc.vuforia.engine@9163f4a76e51-1644838625000
 
-Packages/com.ptc.vuforia.engine-10.5.5.tgz
+Packages/
+*com.ptc.vuforia.engine-10.5.5.tgz
