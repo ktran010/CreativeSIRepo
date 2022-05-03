@@ -1,0 +1,41 @@
+
+RUN PROTOTYPE (Only works for Clock object):
+---------------------------------------------
+
+Step 1.) Turn off visibility of the following objects: Flashlight, ImageTarget1, ArCamera, Binoculars
+Step 2.) Adjust rotation of Directional Light if needed to make scene visible
+Step 3.) Go to Clock prefab under ClockParent under Objects-Interact empty objects
+Step 4.) Make ClockVisible script visible
+Step 5.) Play scene:
+Left clicking on clock object using mouse will make first text visible
+Pressing Spacebar will make second text visible
+==================================================
+==================================================
+==================================================
+
+RUN PROJECT (Works for all objects in scene):
+***NOTE:
+-> Pushed final project to my GitHub, link is here: https://github.com/ktran010/CreativeSIRepo
+
+-> "OnMemoryLoss" folder has my scene, assets, scripts, objects, etc. and is under the Assets folder.
+-------------------------------------------------
+
+>>>>>[FLASHLIGHT]<<<<<
+
+Step 1.) Turn off visibility of the following objects: ImageTarget1, ArCamera, Binoculars
+Step 2.) Turn on Flashlight object visibility
+Step 3.) Adjust rotation of Directional Light to darken or lighten scene
+Step 4.) Play scene:
+Click and drag on flashlight (center) to move flashlight around scene to point at objects + read text.
+Dragging to the right will bring flashlight closer to shelf, dragging to the left will bring flashlight further away.
+Use left arrow (<) and right arrow (>) keys to navigate left and right in scene.
+
+>>>>>[BINOCULARS]<<<<<
+
+Step 1.) Turn off visibility of the following objects: ImageTarget1, ArCamera, Flashlight
+Step 2.) Turn on Binoculars object visibility
+Step 3.) Adjust rotation of Directional Light to darken or lighten scene
+Step 4.) Play scene:
+Click and drag on binoculars (center) to move binoculars around scene to point at objects + read text.
+Dragging to the right will bring binoculars closer to shelf, dragging to the left will bring binoculars further away.
+Use left arrow (<) and right arrow (>) keys to navigate left and right in scene.
