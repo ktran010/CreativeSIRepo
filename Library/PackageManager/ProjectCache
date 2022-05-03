@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807345562515093
-    m_Hash: 3994242327
+      ticks: 637871471489921449
+    m_Hash: 3888737226
   m_LockFileStatus:
     m_FilePath: D:/Home/Nhi/CUSpring2022/ATLS4519_CreativeSI/CreativeSIRepo/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807345704066512
-    m_Hash: 931312638
+      ticks: 637871471498061486
+    m_Hash: 3585346573
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -43,8 +43,20 @@ m_PackageAssets:
       status: 4
       errors: []
       versions:
-        all: []
-        compatible: []
+        all:
+        - 8.0.101
+        - 8.1.9
+        - 8.1.12
+        - 8.3.9
+        - 8.5.8
+        - 8.5.9
+        compatible:
+        - 8.0.101
+        - 8.1.9
+        - 8.1.12
+        - 8.3.9
+        - 8.5.8
+        - 8.5.9
         verified: 
       dependencies:
       - name: com.unity.ugui
@@ -137,10 +149,20 @@ m_PackageAssets:
         - 1.14.4
         - 1.14.7
         - 1.14.9
+        - 1.14.12
+        - 1.14.13
+        - 1.14.15
+        - 1.14.16
+        - 1.14.17
         - 1.15.1
         - 1.15.4
         - 1.15.7
         - 1.15.9
+        - 1.15.12
+        - 1.15.13
+        - 1.15.15
+        - 1.15.16
+        - 1.15.17
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -163,6 +185,11 @@ m_PackageAssets:
         - 1.14.4
         - 1.14.7
         - 1.14.9
+        - 1.14.12
+        - 1.14.13
+        - 1.14.15
+        - 1.14.16
+        - 1.14.17
         - 2.0.0-preview.6
         - 2.0.0-preview.8
         - 2.0.0-preview.15
@@ -256,6 +283,9 @@ m_PackageAssets:
         - 3.0.7
         - 3.0.9
         - 3.0.10
+        - 3.0.12
+        - 3.0.13
+        - 3.0.14
         compatible:
         - 1.0.2
         - 1.0.6
@@ -284,6 +314,9 @@ m_PackageAssets:
         - 3.0.7
         - 3.0.9
         - 3.0.10
+        - 3.0.12
+        - 3.0.13
+        - 3.0.14
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -357,6 +390,7 @@ m_PackageAssets:
         - 2.0.11
         - 2.0.12
         - 2.0.14
+        - 2.0.15
         compatible:
         - 1.0.2
         - 1.0.3
@@ -375,7 +409,8 @@ m_PackageAssets:
         - 2.0.11
         - 2.0.12
         - 2.0.14
-        verified: 2.0.14
+        - 2.0.15
+        verified: 2.0.15
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -443,6 +478,7 @@ m_PackageAssets:
         - 1.2.2
         - 1.2.3
         - 1.2.4
+        - 1.2.5
         compatible:
         - 1.0.2
         - 1.0.3
@@ -456,7 +492,8 @@ m_PackageAssets:
         - 1.2.2
         - 1.2.3
         - 1.2.4
-        verified: 1.2.4
+        - 1.2.5
+        verified: 1.2.5
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -479,6 +516,121 @@ m_PackageAssets:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
         revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+        path: 
+    - packageId: com.unity.recorder@2.5.7
+      testable: 0
+      isDirectDependency: 1
+      version: 2.5.7
+      source: 1
+      resolvedPath: D:\Home\Nhi\CUSpring2022\ATLS4519_CreativeSI\CreativeSIRepo\Library\PackageCache\com.unity.recorder@2.5.7
+      assetPath: Packages/com.unity.recorder
+      name: com.unity.recorder
+      displayName: Unity Recorder
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'The Unity Recorder allows you to capture and save data from the
+        Unity Editor during Play Mode: animations, videos, images, audio, and more.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.5.7
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.0-pre.3
+        - 4.0.0-pre.4
+        compatible:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.5.7
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.0-pre.3
+        verified: 2.5.7
+      dependencies:
+      - name: com.unity.timeline
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.timeline
+        version: 1.4.6
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - recorder
+      - recording
+      - capture
+      - video
+      - animation
+      - clip
+      - images
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637717102070000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.recorder.git
+        revision: a59deb20019b176e95dd8efa2f9b41b8e4a0bb96
         path: 
     - packageId: com.unity.test-framework@1.1.22
       testable: 0
@@ -532,6 +684,8 @@ m_PackageAssets:
         - 1.1.27
         - 1.1.29
         - 1.1.30
+        - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
         compatible:
@@ -541,9 +695,11 @@ m_PackageAssets:
         - 1.1.27
         - 1.1.29
         - 1.1.30
+        - 1.1.31
+        - 2.0.1-exp.1
         - 2.0.1-pre.12
         - 2.0.1-pre.18
-        verified: 1.1.30
+        verified: 1.1.31
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.6
@@ -683,6 +839,7 @@ m_PackageAssets:
         - 2.1.6
         - 2.2.0-preview.1
         - 2.2.0-preview.2
+        - 2.2.0-preview.3
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -702,6 +859,7 @@ m_PackageAssets:
         - 3.0.6
         - 3.2.0-pre.1
         - 3.2.0-pre.2
+        - 3.2.0-pre.3
         - 4.0.0-pre.1
         compatible:
         - 3.0.1
@@ -711,6 +869,7 @@ m_PackageAssets:
         - 3.0.6
         - 3.2.0-pre.1
         - 3.2.0-pre.2
+        - 3.2.0-pre.3
         verified: 3.0.6
       dependencies:
       - name: com.unity.ugui
@@ -836,7 +995,11 @@ m_PackageAssets:
         - 1.6.1
         - 1.6.2
         - 1.6.3
+        - 1.6.4
         - 1.7.0-pre.1
+        - 1.7.0-pre.2
+        - 1.7.0
+        - 1.7.1
         compatible:
         - 1.4.6
         - 1.4.7
@@ -862,7 +1025,11 @@ m_PackageAssets:
         - 1.6.1
         - 1.6.2
         - 1.6.3
+        - 1.6.4
         - 1.7.0-pre.1
+        - 1.7.0-pre.2
+        - 1.7.0
+        - 1.7.1
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director

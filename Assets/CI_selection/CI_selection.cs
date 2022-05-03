@@ -131,7 +131,8 @@ public class CI_selection : MonoBehaviour {
 		}
 	}
 
-	void mouseRayCast(){   
+	void mouseRayCast()
+	{   
 		//for joystick button, replace mousedown for Input. command for button.
 		//for vive use the transform.forward for the joystick controller. 
 
